@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.22.11",
+    "@babel/core": "^7.23.2",
     "@babel/preset-env": "^7.22.14",
     "@babel/register": "^7.22.5",
     "inquirer": "^9.2.10",
